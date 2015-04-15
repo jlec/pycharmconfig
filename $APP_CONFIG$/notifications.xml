@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="System Health" displayType="STICKY_BALLOON" />
+    <toolWindow group="Find in Path" />
+    <toolWindow group="Inspection Results" />
+  </component>
+</application>
