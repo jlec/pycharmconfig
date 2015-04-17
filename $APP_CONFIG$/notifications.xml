@@ -3,5 +3,6 @@
     <notification groupId="System Health" displayType="STICKY_BALLOON" />
     <toolWindow group="Find in Path" />
     <toolWindow group="Inspection Results" />
+    <toolWindow group="Debugger messages" />
   </component>
 </application>
