@@ -55,6 +55,11 @@
                 <id>Python</id>
               </State>
             </expanded-state>
+            <selected-state>
+              <State>
+                <id>Buildout</id>
+              </State>
+            </selected-state>
           </profile-state>
         </entry>
       </component>
@@ -73,7 +78,7 @@
       </component>
       <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.4.3 (/usr/bin/python3.4)" project-jdk-type="Python SDK" />
       <component name="PropertiesComponent">
-        <property name="options.lastSelected" value="preferences.sourceCode" />
+        <property name="options.lastSelected" value="Errors" />
         <property name="options.splitter.main.proportions" value="0.3" />
         <property name="options.splitter.details.proportions" value="0.2" />
       </component>
