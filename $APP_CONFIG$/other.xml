@@ -1,29 +1,12 @@
 <application>
   <component name="AppInspectionProfilesVisibleTreeState">
     <entry key="Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>JSON</id>
-          </State>
-          <State>
-            <id>Python</id>
-          </State>
-          <State>
-            <id>RELAX NG</id>
-          </State>
-          <State>
-            <id>Spelling</id>
-          </State>
-          <State>
-            <id>XML</id>
-          </State>
-        </expanded-state>
-      </profile-state>
+      <profile-state />
     </entry>
+  </component>
+  <component name="BaseRefactoringSettings">
+    <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
+    <option name="SAFE_DELETE_SEARCH_IN_COMMENTS" value="false" />
   </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
@@ -125,7 +108,7 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/src/ics6/django_faq" />
+        <option value="$USER_HOME$/src/ics6/ics6web" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/src/ics6/ics6web" />
