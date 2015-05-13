@@ -167,6 +167,11 @@
         <option value="$USER_HOME$/src/private/biodbs" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/src/ics6/ics6web" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/src/ics6/ics6web" />
   </component>
   <component name="Registry">
