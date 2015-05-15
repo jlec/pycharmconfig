@@ -2,5 +2,7 @@
   <component name="CodeInsightSettings">
     <option name="REFORMAT_ON_PASTE" value="1" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Project Default" />
+  <component name="DaemonCodeAnalyzerSettings" profile="Project Default">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
 </application>
