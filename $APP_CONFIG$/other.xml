@@ -17,6 +17,26 @@
         </selected-state>
       </profile-state>
     </entry>
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ProblematicWhitespace</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="BaseRefactoringSettings">
     <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
@@ -137,16 +157,19 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="/usr/bin/python3.4" value="true" />
+        <entry key="/usr/local/Cellar/python3/3.4.3/Frameworks/Python.framework/Versions/3.4/bin/python3.4" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="/usr/bin/python3.4" value="true" />
+        <entry key="/usr/local/Cellar/python3/3.4.3/Frameworks/Python.framework/Versions/3.4/bin/python3.4" value="true" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="/usr/bin/python3.4" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.4.3/Frameworks/Python.framework/Versions/3.4/bin/python3.4" value="false" />
       </map>
     </option>
   </component>
