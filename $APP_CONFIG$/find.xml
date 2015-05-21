@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ics6web'" />
-    <option name="defaultScopeName" value="Project 'ics6web'" />
-    <option name="SEARCH_SCOPE" value="Project 'ics6web'" />
+    <option name="customScope" value="Project 'django_faq'" />
+    <option name="defaultScopeName" value="Project 'django_faq'" />
+    <option name="SEARCH_SCOPE" value="Project 'django_faq'" />
   </component>
 </application>
