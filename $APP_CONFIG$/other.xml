@@ -130,9 +130,6 @@
       </option>
     </Configuration>
   </component>
-  <component name="PyCodeInsightSettings">
-    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
-  </component>
   <component name="ExternalResourceManagerImpl">
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
