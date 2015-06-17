@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'ics6web_faq'" />
-    <option name="defaultScopeName" value="Module 'ics6web_faq'" />
-    <option name="SEARCH_SCOPE" value="Module 'ics6web_faq'" />
+    <option name="customScope" value="Module 'ics6web_infrabrowser'" />
+    <option name="defaultScopeName" value="Module 'ics6web_infrabrowser'" />
+    <option name="SEARCH_SCOPE" value="Module 'ics6web_infrabrowser'" />
   </component>
 </application>
