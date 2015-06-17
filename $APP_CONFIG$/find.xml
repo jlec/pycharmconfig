@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/local/home/justin/scripts/aekta2hdf5.py'" />
-    <option name="defaultScopeName" value="File '/local/home/justin/scripts/aekta2hdf5.py'" />
-    <option name="SEARCH_SCOPE" value="File '/local/home/justin/scripts/aekta2hdf5.py'" />
+    <option name="customScope" value="Project 'ics6web'" />
+    <option name="defaultScopeName" value="Project 'ics6web'" />
+    <option name="SEARCH_SCOPE" value="Project 'ics6web'" />
   </component>
 </application>
