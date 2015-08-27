@@ -129,6 +129,7 @@
   <component name="PyCodeInsightSettings">
     <option name="SHOW_IMPORT_POPUP" value="true" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
+    <option name="INSERT_TYPE_DOCSTUB" value="true" />
   </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
