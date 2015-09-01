@@ -8,7 +8,6 @@
       <mapping pattern="NEWS" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping ext="jinja" type="PLAIN_TEXT" />
-      <mapping ext="jinja2" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
