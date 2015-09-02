@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'jlec.de'" />
-    <option name="defaultScopeName" value="Project 'jlec.de'" />
-    <option name="SEARCH_SCOPE" value="Project 'jlec.de'" />
+    <option name="customScope" value="File '/local/home/justin/src/ics6/ics6web/ics6web/src/static/js/pbs.js'" />
+    <option name="defaultScopeName" value="File '/local/home/justin/src/ics6/ics6web/ics6web/src/static/js/pbs.js'" />
+    <option name="SEARCH_SCOPE" value="File '/local/home/justin/src/ics6/ics6web/ics6web/src/static/js/pbs.js'" />
   </component>
 </application>
