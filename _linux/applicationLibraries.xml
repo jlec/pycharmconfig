@@ -1,0 +1,48 @@
+<application>
+  <component name="libraryTable">
+    <library name="data" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_code.highcharts.com_modules_data.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_code.highcharts.com_modules_data.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="exporting" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_code.highcharts.com_modules_exporting.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_code.highcharts.com_modules_exporting.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="highcharts" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_code.highcharts.com_highcharts.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_code.highcharts.com_highcharts.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="highcharts-3d" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_code.highcharts.com_highcharts-3d.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_code.highcharts.com_highcharts-3d.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
