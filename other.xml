@@ -7,12 +7,15 @@
             <id />
           </State>
           <State>
-            <id>Spelling</id>
+            <id>BashSupport</id>
+          </State>
+          <State>
+            <id>General</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>BashSupport</id>
+            <id>ProblematicWhitespace</id>
           </State>
         </selected-state>
       </profile-state>
