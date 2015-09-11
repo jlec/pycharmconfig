@@ -1,0 +1,7 @@
+<keymap version="1" name="Mac OS X copy 1" parent="Mac OS X">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+</keymap>
