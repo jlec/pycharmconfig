@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ics6web'" />
-    <option name="defaultScopeName" value="Project 'ics6web'" />
-    <option name="SEARCH_SCOPE" value="Project 'ics6web'" />
+    <option name="customScope" value="Project 'ssllabs'" />
+    <option name="defaultScopeName" value="Project 'ssllabs'" />
+    <option name="SEARCH_SCOPE" value="Project 'ssllabs'" />
   </component>
 </application>
