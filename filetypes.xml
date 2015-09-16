@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="*.bash.in" type="Bash" />
       <mapping pattern="*.eselect.in" type="Bash" />
+      <mapping pattern="auto.master" type="Bash" />
       <mapping ext="eselect" type="Bash" />
       <mapping pattern="NEWS" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
