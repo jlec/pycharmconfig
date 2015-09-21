@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.5_js_bootstrap.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.5_js_bootstrap.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="data" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -42,6 +53,22 @@
       <CLASSES>
         <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_code.highcharts.com_highcharts-3d.js" />
       </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery-2.1.4" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.4." />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_code.jquery.com_jquery-2.1.4.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_code.jquery.com_jquery-2.1.4.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
       <SOURCES />
     </library>
     <library name="select2" type="javaScript">
