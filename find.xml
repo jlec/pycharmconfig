@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ssllabs'" />
-    <option name="defaultScopeName" value="Project 'ssllabs'" />
-    <option name="SEARCH_SCOPE" value="Project 'ssllabs'" />
+    <option name="customScope" value="File '/local/home/justin/scripts/update-manifest.py'" />
+    <option name="defaultScopeName" value="File '/local/home/justin/scripts/update-manifest.py'" />
+    <option name="SEARCH_SCOPE" value="File '/local/home/justin/scripts/update-manifest.py'" />
   </component>
 </application>
