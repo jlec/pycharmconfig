@@ -1,5 +1,8 @@
 <application>
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="Python" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="Python" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="Python" />
   </component>
 </application>

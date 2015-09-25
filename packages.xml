@@ -8360,6 +8360,7 @@
         <entry key="agarnet" value="0.2.0" />
         <entry key="agaro" value="0.2.0" />
         <entry key="agate" value="0.10.0" />
+        <entry key="agate-sql" value="0.1.0" />
         <entry key="agavepy" value="0.2" />
         <entry key="age" value="0.0" />
         <entry key="agecalc" value="3.5.2" />
@@ -9280,7 +9281,7 @@
         <entry key="apppy" value="1.0" />
         <entry key="approxidate" value="1.0.3" />
         <entry key="apps-sdk" value="0.2.4.1" />
-        <entry key="appscale-tools" value="2.3.1" />
+        <entry key="appscale-tools" value="2.4.0" />
         <entry key="appscan" value="0.0.1" />
         <entry key="appscript" value="1.0.1" />
         <entry key="appscriptcls" value="0.0.3" />
@@ -29457,9 +29458,9 @@
         <entry key="gnp" value="0.0.4" />
         <entry key="gns.test" value="0.0.1-2" />
         <entry key="gns3-converter" value="1.2.3" />
-        <entry key="gns3-gui" value="1.4.0beta2" />
+        <entry key="gns3-gui" value="1.4.0b3" />
         <entry key="gns3-netifaces" value="0.10.4.1" />
-        <entry key="gns3-server" value="1.4.0beta2" />
+        <entry key="gns3-server" value="1.4.0b3" />
         <entry key="gnscli" value="0.7.0-alpha-d5e53ea" />
         <entry key="gnsq" value="0.3.0" />
         <entry key="gnsstime" value="0.0.5" />
@@ -30227,7 +30228,7 @@
         <entry key="gurobimh" value="0.4" />
         <entry key="gurobipy" value="5.0.2" />
         <entry key="gurumate" value="2.8.6" />
-        <entry key="gus_client" value="0.5.19" />
+        <entry key="gus_client" value="0.5.20" />
         <entry key="gush" value="1.0.0" />
         <entry key="gusset" value="1.3" />
         <entry key="gust" value="0.1-alpha" />
@@ -65211,6 +65212,6 @@
         <entry key="zzzfs" value="0.1" />
       </map>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1442938703089" />
+    <option name="LAST_TIME_CHECKED" value="1442939479986" />
   </component>
 </application>
