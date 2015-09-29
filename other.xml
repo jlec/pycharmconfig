@@ -129,6 +129,9 @@
       </option>
     </Configuration>
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.gentoo.org/dtd/metadata.dtd" location="$USER_HOME$/.PyCharm40/system/extResources/315e8a3c_metadata.dtd" />
+  </component>
   <component name="PyCodeInsightSettings">
     <option name="SHOW_IMPORT_POPUP" value="true" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
