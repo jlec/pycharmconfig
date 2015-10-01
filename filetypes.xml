@@ -6,11 +6,11 @@
       <mapping pattern="*.eselect.in" type="Bash" />
       <mapping pattern="auto.master" type="Bash" />
       <mapping ext="eselect" type="Bash" />
-      <mapping pattern="scp" type="PLAIN_TEXT" />
-      <mapping pattern=".coverage" type="PLAIN_TEXT" />
+      <mapping pattern="" type="PLAIN_TEXT" />
       <mapping pattern="NEWS" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
-      <mapping pattern="" type="PLAIN_TEXT" />
+      <mapping pattern=".coverage" type="PLAIN_TEXT" />
+      <mapping pattern="scp" type="PLAIN_TEXT" />
       <mapping ext="fidlib" type="PLAIN_TEXT" />
       <mapping ext="exchange" type="PLAIN_TEXT" />
       <mapping ext="jinja" type="PLAIN_TEXT" />
