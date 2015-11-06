@@ -1,5 +1,14 @@
 <application>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value />
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default (1)" />
+  </component>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://www.gentoo.org/dtd/metadata.dtd" location="$USER_HOME$/.PyCharm40/system/extResources/315e8a3c_metadata.dtd" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="SHOW_IMPORT_POPUP" value="true" />
   </component>
 </application>
