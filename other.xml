@@ -19,6 +19,17 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="/usr/bin/python3.4" value="true" />
+        <entry key="/usr/local/bin/python3" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/usr/local/bin/python3" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="/usr/local/bin/python3" value="false" />
       </map>
     </option>
   </component>
