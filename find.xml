@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Volumes/iExtra/justin/src/opensource/Pymol-script-repo/pymolscriptrepo.py'" />
-    <option name="defaultScopeName" value="File '/Volumes/iExtra/justin/src/opensource/Pymol-script-repo/pymolscriptrepo.py'" />
-    <option name="SEARCH_SCOPE" value="File '/Volumes/iExtra/justin/src/opensource/Pymol-script-repo/pymolscriptrepo.py'" />
+    <option name="customScope" value="File '/Volumes/iExtra/justin/src/opensource/Pymol-script-repo/propka.py'" />
+    <option name="defaultScopeName" value="File '/Volumes/iExtra/justin/src/opensource/Pymol-script-repo/propka.py'" />
+    <option name="SEARCH_SCOPE" value="File '/Volumes/iExtra/justin/src/opensource/Pymol-script-repo/propka.py'" />
   </component>
 </application>
