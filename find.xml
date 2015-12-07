@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Volumes/iExtra/justin/src/opensource/Pymol-script-repo/save_pdb_with_anisou.py'" />
-    <option name="defaultScopeName" value="File '/Volumes/iExtra/justin/src/opensource/Pymol-script-repo/save_pdb_with_anisou.py'" />
-    <option name="SEARCH_SCOPE" value="File '/Volumes/iExtra/justin/src/opensource/Pymol-script-repo/save_pdb_with_anisou.py'" />
+    <option name="customScope" value="File '/Volumes/iExtra/justin/src/opensource/Pymol-script-repo/rotkit.py'" />
+    <option name="defaultScopeName" value="File '/Volumes/iExtra/justin/src/opensource/Pymol-script-repo/rotkit.py'" />
+    <option name="SEARCH_SCOPE" value="File '/Volumes/iExtra/justin/src/opensource/Pymol-script-repo/rotkit.py'" />
   </component>
 </application>
